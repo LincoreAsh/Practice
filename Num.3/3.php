@@ -45,3 +45,4 @@ if(empty(!$_FILES['docs']['name'])){
     if(!empty($value)){
         countWords($value);
     }
+}
