@@ -48,7 +48,7 @@ echo "<p>Зарегестрируйтесь или авторизируйтес�
       <div class="col-6 col-md">
         <h5> <a class="text-muted" href="contact.php">Кoнтакты</a></h5>
         <ul class="list-unstyled text-small">
-          <li><p>Адрес электронной почты:</p> <a class="text-muted" href="#">eliseev_denis_95@mail.ru</a></li>
+          <li><p>Адрес электронной почты:</p> <a class="text-muted" href="#">ildarikgai32@gmail.com</a></li>
         </ul>
     
   </footer>
